@@ -1,0 +1,20 @@
+Habitat: Savanna
+Animals:
+ID: H1, Name: Simba, Species: Lion, Age: 5, Birth Season: Spring
+ID: H4, Name: Scar, Species: Hyena, Age: 10, Birth Season: Winter
+ID: H5, Name: Mufasa, Species: Lion, Age: 12, Birth Season: Spring
+ID: H8, Name: Shenzi, Species: Hyena, Age: 9, Birth Season: Winter
+
+Habitat: Jungle
+Animals:
+ID: H3, Name: Shere Khan, Species: Tiger, Age: 6, Birth Season: Summer
+ID: H7, Name: Rajah, Species: Tiger, Age: 4, Birth Season: Summer
+
+Habitat: Arctic
+Animals:
+ID: H2, Name: Baloo, Species: Bear, Age: 8, Birth Season: Fall
+ID: H6, Name: Bagheera, Species: Bear, Age: 7, Birth Season: Fall
+
+Habitat: Forest
+Animals:
+
